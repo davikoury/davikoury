@@ -17,9 +17,7 @@
 </div>
 
 
-
-
-
+![Snake animation](https://github.com/davikoury/davikoury/blob/output/github-contribution-grid-snake.svg)
 
 
 <!-- ### Olá! Eu sou o Davi Koury 👋
