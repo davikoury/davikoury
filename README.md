@@ -1,8 +1,8 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Davi and my nickname is "davikoury"!
 
-- 🌱 Atualmente estou aprendendo GO e Python
-- 📫 Como entrar em contato comigo: davi.koury@hotmail.com
+🌱 I'm currently learning GO and Python
+📫 How to contact me: davi.koury@hotmail.com
 
 
 ## Ferramentas e Tecnologias
