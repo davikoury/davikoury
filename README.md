@@ -1,8 +1,6 @@
 ### Olá! Eu sou o Davi Koury 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davikoury/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/davidkoury69?si=a59cbf25893d492c)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kourydavi/)
 
 ![Davi Koury GitHub stats](https://github-readme-stats.vercel.app/api?username=davikoury&show_icons=true&theme=radical)
 
