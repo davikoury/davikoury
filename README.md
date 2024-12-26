@@ -1,4 +1,31 @@
-### Olá! Eu sou o Davi Koury 👋
+# 👋 Hello! Welcome to my Github profile.
+## My name is Davi and my nickname is "davikoury"!
+
+- 🌱 Atualmente estou aprendendo GO e Python
+- 📫 Como entrar em contato comigo: davi.koury@hotmail.com
+
+
+## Ferramentas e Tecnologias
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/>
+
+      
+## Contatos:
+
+<div>
+<a href = "mailto:davi.koury@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/davikoury" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+
+
+![Snake animation](https://github.com/davikoury/davikoury/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+<!-- ### Olá! Eu sou o Davi Koury 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davikoury/)
 
@@ -18,3 +45,5 @@
 <img align="center" alt="JavaScript" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <div style="display: inline_block"><br/> 
 <img align="center" alt="MySQL" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+-->
+
